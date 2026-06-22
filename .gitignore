@@ -1,0 +1,6 @@
+*.log
+*.tmp
+*.bak
+*.cache
+Thumbs.db
+.DS_Store
